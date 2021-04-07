@@ -114,11 +114,12 @@ nav a{
     margin:0 2%;
     background-color:#DDB9A3;
     color:#fff;
-    width:80%;
+    max-width:95%;
     text-align:center;
 }
 .first {
     background-color:#DDB9A3;
+    width:
     
 }
 .second{
@@ -128,15 +129,26 @@ nav a{
     text-align:center;
     width:25%;
     margin: 0 auto;
+    padding:1%;
 }
 .fire {
-    width:50%;
-    margin:5%;
+    width:75%;
+    margin:0 auto 5%;
 }
 .camper{
-    width:50%;
-    text-align: center;
+    width:79%;
+    margin:0 auto 3%;
 }
 span{
     font-weight:bold;
+}
+.background-image{
+    background-image:url("assets/footer_img.jpg");
+    height:25rem;
+    background-size:cover;
+    top:20%;
+    
+}
+.footer{
+    background-color:#F9E7DC;
 }
