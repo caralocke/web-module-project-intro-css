@@ -110,3 +110,16 @@ nav a{
     position:absolute;
     bottom:20%; 
 }
+.maintext{
+    margin:0 2%;
+    background-color:#DDB9A3;
+    width:80%;
+    text-align:center;
+}
+.first {
+    background-color:#DDB9A3;
+    
+}
+.second{
+    background-color:#DDB9A3;
+}
