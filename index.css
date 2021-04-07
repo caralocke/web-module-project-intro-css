@@ -113,6 +113,7 @@ nav a{
 .maintext{
     margin:0 2%;
     background-color:#DDB9A3;
+    color:#fff;
     width:80%;
     text-align:center;
 }
@@ -122,4 +123,20 @@ nav a{
 }
 .second{
     background-color:#DDB9A3;
+}
+.image-container{
+    text-align:center;
+    width:25%;
+    margin: 0 auto;
+}
+.fire {
+    width:50%;
+    margin:5%;
+}
+.camper{
+    width:50%;
+    text-align: center;
+}
+span{
+    font-weight:bold;
 }
