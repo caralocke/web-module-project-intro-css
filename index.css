@@ -59,6 +59,8 @@ h1{
 }
 section{
     padding:4% 0;
+    width:90%;
+    margin: 0 auto;
 }
 
 /*header section styles*/
@@ -136,7 +138,7 @@ nav a{
 .image-container{
     text-align:center;
     width:25%;
-    margin: 0 auto;
+    margin:5% auto;
     padding:1%;
 }
 .fire {
@@ -152,11 +154,12 @@ span{
 }
 .background-image{
     background-image:url("assets/footer_img.jpg");
-    height:20rem;
+    height:50vh;
     background-size:cover;
-    top:50%;
-    padding: 15%;    
+    background-repeat:no-repeat;
+    background-position:top center;
+    width:100%;
 }
-.footer{
+footer{
     background-color:#F9E7DC;
 }
