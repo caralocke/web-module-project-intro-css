@@ -144,10 +144,10 @@ span{
 }
 .background-image{
     background-image:url("assets/footer_img.jpg");
-    height:25rem;
+    height:20rem;
     background-size:cover;
-    top:20%;
-    
+    top:50%;
+    padding: 15%;    
 }
 .footer{
     background-color:#F9E7DC;
