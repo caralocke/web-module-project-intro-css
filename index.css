@@ -80,15 +80,23 @@ nav a{
     background-color:#FF764E;
     margin-left:10%;
 }
+.orange:hover{
+    background-color: #873e23;
+}
 .blue{
     background-color:#5ED3EB;
     margin: 0 24%;
+}
+.blue:hover{
+    background-color:#154c79;
 }
 .yellow{
     background-color:#FFCD69;
     margin-right:10%;
 }
-
+.yellow:hover{
+    background-color:#e28743;
+}
 /* Top section styles*/
 .top{
     position:relative;
